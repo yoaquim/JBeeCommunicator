@@ -1,4 +1,4 @@
-JBeeCommunicator
+JBee Communicator
 ================
 
 Java application that interfaces with an <i>XBee RF Module</i> - 802.15.4 protocol - which listens/writes on a serial port. Used to send/recieve text.
