@@ -18,7 +18,7 @@ Dependencies
 
 - The application uses the javacomm library, which is included under the <i>javaxcomm</i> folder. It should be noted that the <a href="https://code.google.com/p/java-simple-serial-connector/">jSSC</a> library might be a better fit if you are looking to use serial ports with Java.
 
-- It also relies on <a href="http://www.jgoodies.com/freeware/libraries/forms/">JGoodies Form Layout</a>, though - as I said earlier - I don't recommend it.
+- It also relies on <a href="http://www.jgoodies.com/freeware/libraries/forms/">JGoodies Form Layout</a> for the faulty GUI, though, as I said earlier, I don't recommend it.
 
 - You should definitely consult the XBee datasheet, which can be found online.
 
