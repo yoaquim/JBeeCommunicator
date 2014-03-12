@@ -20,7 +20,7 @@ Dependencies
 
 - It also relies on <a href="http://www.jgoodies.com/freeware/libraries/forms/">JGoodies Form Layout</a> for the faulty GUI, though, as I said earlier, I don't recommend it.
 
-- You should definitely consult the XBee datasheet, which can be found online.
+- You should definitely consult the XBee <a href="https://www.sparkfun.com/datasheets/Wireless/Zigbee/XBee-Datasheet.pdf">datasheet</a>.
 
 
 Important Caveat
